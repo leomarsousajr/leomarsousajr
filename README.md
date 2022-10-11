@@ -7,6 +7,11 @@ Todos os repositórios são privados por terem sido feitos para empresas privada
 
 ## Conhecimentos:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" heigth="50" />]()
 
 ### Me contate: ;)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leomar-sousa-766139216/)
