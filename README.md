@@ -12,6 +12,8 @@ Todos os repositórios são privados por terem sido feitos para empresas privada
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" heigth="50" />]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" heigth="50" />]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" heigth="50" />]()
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" heigth="50" />]()
 
 ### Me contate: ;)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leomar-sousa-766139216/)
