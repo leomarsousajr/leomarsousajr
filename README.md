@@ -8,6 +8,6 @@ Todos os repositórios são privados por terem sido feitos para empresas privada
 ## Conhecimentos:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" heigth="50" />]()
 
-#Me contate: ;)
+# Me contate: ;)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leomar-sousa-766139216/)
 [<img src="https://img.shields.io/badge/whatsapp-%23128c7e.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5598981487069)
