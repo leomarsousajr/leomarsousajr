@@ -3,8 +3,6 @@
 
 Desenvolvedor Full Stack, apaixonado pelas melhores tecnologias de desenvolvimento Back End, Front End e mobile.
 
-Todos os repositórios são privados por terem sido feitos para empresas privadas.
-
 ## Conhecimentos:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" heigth="50" />]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" heigth="50" />]()
